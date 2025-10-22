@@ -30,3 +30,13 @@ Please follow these simple guidelines to make contributions smooth and easy:
    - By contributing, you agree that your contributions will be licensed under the project's license.
 
 Thank you — we appreciate your help!
+
+PR Checklist
+-----------
+- [ ] I have added or updated tests where applicable.
+- [ ] I have run the app locally and verified my changes.
+- [ ] My PR includes a clear description and references any related issues.
+
+Contact
+-------
+If you have questions, open an issue or mention @HuaD888 in the PR comments.
